@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "proiect_mpv_Scutaru_Iuliu_IE2/1.0.0": {
+        "runtime": {
+          "proiect_mpv_Scutaru_Iuliu_IE2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "proiect_mpv_Scutaru_Iuliu_IE2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

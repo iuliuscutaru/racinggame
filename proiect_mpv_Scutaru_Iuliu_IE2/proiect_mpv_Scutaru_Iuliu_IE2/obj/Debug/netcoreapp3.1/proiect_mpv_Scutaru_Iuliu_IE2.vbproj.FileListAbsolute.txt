@@ -1,0 +1,16 @@
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\obj\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.vbprojAssemblyReference.cache
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\obj\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.Form1.resources
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\obj\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.vbproj.GenerateResource.cache
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\obj\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.AssemblyInfoInputs.cache
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\obj\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.AssemblyInfo.vb
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\obj\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.vbproj.CoreCompileInputs.cache
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\bin\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.exe
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\bin\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.deps.json
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\bin\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.runtimeconfig.json
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\bin\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.runtimeconfig.dev.json
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\bin\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.dll
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\bin\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.pdb
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\obj\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.dll
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\obj\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.pdb
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\obj\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.genruntimeconfig.cache
+C:\Users\iuliu\source\repos\proiect_mpv_Scutaru_Iuliu_IE2\proiect_mpv_Scutaru_Iuliu_IE2\obj\Debug\netcoreapp3.1\proiect_mpv_Scutaru_Iuliu_IE2.Resources.resources
